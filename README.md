@@ -44,7 +44,7 @@ Setup
 
 # Clone this repository:
 
-git clone https://github.com/yourusername/fake-news-detection.git
+git clone https://github.com/Shivanshu63a/FakeNews_Detection.git
 cd fake-news-detection
 
 # Create a virtual environment (optional but recommended):
